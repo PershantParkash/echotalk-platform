@@ -84,7 +84,7 @@ Token verification middleware to validate and secure all authenticated requests
 - 🧏 AI-powered Sign Language Detection during video calls  
   (detects hand gestures and transmits them to the other user in real-time)  
 
-#  Chat
+#  Chat Interface
 ![Chat](./screenshots/chat.png)
 
 #  Call
